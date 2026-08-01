@@ -1,0 +1,8 @@
+# Python 虚拟环境与缓存(不入库，CI 中自行安装依赖)
+.venv/
+__pycache__/
+*.pyc
+
+# 本地工具配置(与项目本身无关)
+.claude/
+.workbuddy/

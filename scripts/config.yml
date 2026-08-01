@@ -1,0 +1,101 @@
+# AI 顶会配置 - 12 个会议的 URL 与解析器映射
+# parser 取值: researchr (NeurIPS/ICML/ICLR/CVPR), cvf (ICCV/ECCV), standalone (AAAI/IJCAI)
+# biennial: odd=奇数年举办, even=偶数年举办, null=年度
+
+conferences:
+  - id: neurips
+    title: NeurIPS
+    full_name: Conference on Neural Information Processing Systems
+    category: AI-ML
+    parser: researchr
+    biennial: null
+    url_template: "https://neurips.cc/Conferences/{year}/Dates"
+
+  - id: icml
+    title: ICML
+    full_name: International Conference on Machine Learning
+    category: AI-ML
+    parser: researchr
+    biennial: null
+    url_template: "https://icml.cc/Conferences/{year}/Dates"
+
+  - id: iclr
+    title: ICLR
+    full_name: International Conference on Learning Representations
+    category: AI-ML
+    parser: researchr
+    biennial: null
+    url_template: "https://iclr.cc/Conferences/{year}/Dates"
+
+  - id: aaai
+    title: AAAI
+    full_name: AAAI Conference on Artificial Intelligence
+    category: AI-ML
+    parser: standalone
+    biennial: null
+    url_template: "https://aaai.org/conference/aaai/aaai-{yy}/"
+
+  - id: ijcai
+    title: IJCAI
+    full_name: International Joint Conference on Artificial Intelligence
+    category: AI-ML
+    parser: standalone
+    biennial: null
+    url_template: "https://{year}.ijcai.org/"
+
+  - id: cvpr
+    title: CVPR
+    full_name: Conference on Computer Vision and Pattern Recognition
+    category: CV
+    parser: researchr
+    biennial: null
+    url_template: "https://cvpr.thecvf.com/Conferences/{year}/Dates"
+
+  - id: iccv
+    title: ICCV
+    full_name: International Conference on Computer Vision
+    category: CV
+    parser: cvf
+    biennial: odd
+    url_template: "https://iccv.thecvf.com/Conferences/{year}/Dates"
+
+  - id: eccv
+    title: ECCV
+    full_name: European Conference on Computer Vision
+    category: CV
+    parser: researchr
+    biennial: even
+    url_template: "https://eccv.ecva.net/Conferences/{year}/Dates"
+
+  # ---- 以下为新增会议(官网非 researchr CMS, 用 standalone 解析器; ccf-deadlines 作回退) ----
+  - id: wsdm
+    title: WSDM
+    full_name: ACM International Conference on Web Search and Data Mining
+    category: DM-IR
+    parser: standalone
+    biennial: null
+    url_template: "https://wsdm-conference.org/{year}/"
+
+  - id: icra
+    title: ICRA
+    full_name: IEEE International Conference on Robotics and Automation
+    category: RO
+    parser: standalone
+    biennial: null
+    url_template: "https://{year}.ieee-icra.org/"
+
+  - id: naacl
+    title: NAACL
+    full_name: Conference of the North American Chapter of the Association for Computational Linguistics
+    category: NLP
+    parser: standalone
+    biennial: null
+    url_template: "https://{year}.naacl.org/"
+
+  - id: www
+    title: WWW
+    full_name: The Web Conference
+    category: DM-IR
+    parser: standalone
+    biennial: null
+    url_template: "https://acmweb{year}.org/"

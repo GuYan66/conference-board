@@ -1,0 +1,313 @@
+window.CONF_DATA = {
+  "generated_at": "2026-08-01T07:33:34.906622+00:00",
+  "conferences": [
+    {
+      "id": "neurips26",
+      "title": "NeurIPS",
+      "full_name": "Conference on Neural Information Processing Systems",
+      "year": 2026,
+      "category": "AI-ML",
+      "link": "https://neurips.cc/Conferences/2026",
+      "place": "Sydney, Australia",
+      "conference_start": "2026-12-06",
+      "conference_end": "2026-12-12",
+      "timezone": "AoE",
+      "deadlines": {
+        "abstract": "2026-05-04T23:59:59-12:00",
+        "submission": "2026-05-06T23:59:59-12:00",
+        "rebuttal_start": "2026-07-22T23:59:59-12:00",
+        "rebuttal_end": "2026-08-03T23:59:59-12:00",
+        "notification": "2026-09-24T23:59:59-12:00"
+      },
+      "confidence": {
+        "abstract": "high",
+        "submission": "high",
+        "rebuttal_start": "high",
+        "rebuttal_end": "high",
+        "notification": "high",
+        "place": "medium"
+      },
+      "source": "https://neurips.cc/Conferences/2026/Dates",
+      "note": ""
+    },
+    {
+      "id": "icml26",
+      "title": "ICML",
+      "full_name": "International Conference on Machine Learning",
+      "year": 2026,
+      "category": "AI-ML",
+      "link": "https://icml.cc/Conferences/2026",
+      "place": "Seoul, Korea",
+      "conference_start": "2026-07-06",
+      "conference_end": "2026-07-12",
+      "timezone": "AoE",
+      "deadlines": {
+        "abstract": "2026-01-23T23:59:59-12:00",
+        "submission": "2026-01-28T23:59:59-12:00",
+        "rebuttal_start": "2026-03-24T23:59:59-12:00"
+      },
+      "confidence": {
+        "abstract": "high",
+        "submission": "high",
+        "rebuttal_start": "high",
+        "place": "medium"
+      },
+      "source": "https://icml.cc/Conferences/2026/Dates",
+      "note": ""
+    },
+    {
+      "id": "iclr27",
+      "title": "ICLR",
+      "full_name": "International Conference on Learning Representations",
+      "year": 2027,
+      "category": "AI-ML",
+      "link": "https://iclr.cc/Conferences/2027",
+      "place": "San Francisco, CA, USA",
+      "conference_start": "2027-04-26",
+      "conference_end": "2027-04-28",
+      "timezone": "AoE",
+      "deadlines": {
+        "abstract": "2026-09-18T23:59:59-12:00",
+        "rebuttal_start": "2026-11-05T23:59:59-12:00",
+        "notification": "2026-12-16T23:59:59-12:00",
+        "submission": "2026-09-25T23:59:59-12:00"
+      },
+      "confidence": {
+        "abstract": "high",
+        "rebuttal_start": "high",
+        "notification": "high",
+        "place": "medium",
+        "submission": "medium"
+      },
+      "source": "https://iclr.cc/Conferences/2027/Dates",
+      "note": ""
+    },
+    {
+      "id": "aaai27",
+      "title": "AAAI",
+      "full_name": "AAAI Conference on Artificial Intelligence",
+      "year": 2027,
+      "category": "AI-ML",
+      "link": "https://aaai.org/conference/aaai/aaai-27/",
+      "place": "Montréal, Canada",
+      "conference_start": "2027-02-16",
+      "conference_end": "2027-02-23",
+      "timezone": "AoE",
+      "deadlines": {
+        "abstract": "2026-07-21T23:59:59-12:00",
+        "submission": "2026-07-28T23:59:59-12:00",
+        "supplementary": "2026-07-31T23:59:59-12:00",
+        "rebuttal_start": "2026-09-24T23:59:59-12:00",
+        "notification": "2026-11-30T23:59:59-12:00",
+        "camera_ready": "2026-12-14T23:59:59-12:00"
+      },
+      "confidence": {
+        "abstract": "medium",
+        "submission": "medium",
+        "supplementary": "medium",
+        "rebuttal_start": "medium",
+        "notification": "medium",
+        "camera_ready": "medium"
+      },
+      "source": "https://aaai.org/conference/aaai/aaai-27/",
+      "note": ""
+    },
+    {
+      "id": "ijcai26",
+      "title": "IJCAI",
+      "full_name": "International Joint Conference on Artificial Intelligence",
+      "year": 2026,
+      "category": "AI-ML",
+      "link": "https://2026.ijcai.org/",
+      "place": "Bremen, Germany",
+      "conference_start": "2026-08-15",
+      "conference_end": "2026-08-21",
+      "timezone": "AoE",
+      "deadlines": {
+        "submission": "2026-01-19T23:59:59-12:00",
+        "abstract": "2026-01-12T23:59:59-12:00"
+      },
+      "confidence": {
+        "submission": "medium",
+        "abstract": "medium"
+      },
+      "source": "https://2026.ijcai.org/",
+      "note": ""
+    },
+    {
+      "id": "cvpr26",
+      "title": "CVPR",
+      "full_name": "Conference on Computer Vision and Pattern Recognition",
+      "year": 2026,
+      "category": "CV",
+      "link": "https://cvpr.thecvf.com/Conferences/2026",
+      "place": "Denver, Colorado, United States",
+      "conference_start": "2026-06-05",
+      "conference_end": "2026-06-07",
+      "timezone": "AoE",
+      "deadlines": {
+        "abstract": "2025-11-07T23:59:59-12:00",
+        "submission": "2025-11-13T23:59:59-12:00",
+        "supplementary": "2025-11-20T23:59:59-12:00",
+        "rebuttal_start": "2026-01-22T23:59:59-12:00",
+        "rebuttal_end": "2026-01-29T23:59:59-12:00",
+        "notification": "2026-02-20T23:59:59-12:00"
+      },
+      "confidence": {
+        "abstract": "high",
+        "submission": "high",
+        "supplementary": "high",
+        "rebuttal_start": "high",
+        "rebuttal_end": "high",
+        "notification": "high",
+        "place": "medium"
+      },
+      "source": "https://cvpr.thecvf.com/Conferences/2026/Dates",
+      "note": ""
+    },
+    {
+      "id": "iccv25",
+      "title": "ICCV",
+      "full_name": "International Conference on Computer Vision",
+      "year": 2025,
+      "category": "CV",
+      "link": "https://iccv.thecvf.com/Conferences/2025",
+      "place": "Honolulu, Hawaii",
+      "conference_start": "2025-10-21",
+      "conference_end": "2025-10-23",
+      "timezone": "AoE",
+      "deadlines": {
+        "submission": "2025-03-03T23:59:59-12:00",
+        "supplementary": "2025-03-07T23:59:59-12:00",
+        "rebuttal_start": "2025-05-09T23:59:59-12:00",
+        "abstract": "2025-03-04T09:59:59-12:00"
+      },
+      "confidence": {
+        "submission": "low",
+        "supplementary": "high",
+        "rebuttal_start": "high",
+        "place": "medium",
+        "abstract": "low"
+      },
+      "source": "https://iccv.thecvf.com/Conferences/2025/Dates",
+      "note": ""
+    },
+    {
+      "id": "eccv26",
+      "title": "ECCV",
+      "full_name": "European Conference on Computer Vision",
+      "year": 2026,
+      "category": "CV",
+      "link": "https://eccv.ecva.net/Conferences/2026",
+      "place": "Malmö, Sweden",
+      "conference_start": "2026-09-10",
+      "conference_end": "2026-09-12",
+      "timezone": "AoE",
+      "deadlines": {
+        "submission": "2026-02-26T23:59:59-12:00",
+        "rebuttal_start": "2026-05-02T23:59:59-12:00",
+        "notification": "2026-06-17T23:59:59-12:00",
+        "camera_ready": "2026-06-30T23:59:59-12:00",
+        "abstract": "2026-02-26T14:00:00-12:00"
+      },
+      "confidence": {
+        "submission": "high",
+        "rebuttal_start": "high",
+        "notification": "high",
+        "camera_ready": "high",
+        "place": "medium",
+        "abstract": "medium"
+      },
+      "source": "https://eccv.ecva.net/Conferences/2026/Dates",
+      "note": ""
+    },
+    {
+      "id": "wsdm27",
+      "title": "WSDM",
+      "full_name": "ACM International Conference on Web Search and Data Mining",
+      "year": 2027,
+      "category": "DM-IR",
+      "link": "https://wsdm-conference.org/2027/",
+      "place": "Cordis, Hong Kong SAR, China",
+      "conference_start": "2027-02-15",
+      "conference_end": "2027-02-19",
+      "timezone": "AoE",
+      "deadlines": {
+        "abstract": "2026-08-17T23:59:59-12:00",
+        "submission": "2026-08-24T23:59:59-12:00",
+        "camera_ready": "2026-11-02T23:59:59-12:00"
+      },
+      "confidence": {
+        "abstract": "medium",
+        "submission": "medium",
+        "camera_ready": "medium",
+        "place": "medium"
+      },
+      "source": "https://wsdm-conference.org/2027/",
+      "note": ""
+    },
+    {
+      "id": "icra27",
+      "title": "ICRA",
+      "full_name": "IEEE International Conference on Robotics and Automation",
+      "year": 2027,
+      "category": "RO",
+      "link": "https://2027.ieee-icra.org/",
+      "place": "Seoul, Republic of Korea",
+      "conference_start": "2027-05-24",
+      "conference_end": "2027-05-28",
+      "timezone": "AoE",
+      "deadlines": {
+        "submission": "2026-09-15T23:59:59-12:00"
+      },
+      "confidence": {
+        "submission": "medium"
+      },
+      "source": "https://2027.ieee-icra.org/",
+      "note": "数据来源: ccf-deadlines"
+    },
+    {
+      "id": "naacl27",
+      "title": "NAACL",
+      "full_name": "Conference of the North American Chapter of the Association for Computational Linguistics",
+      "year": 2027,
+      "category": "NLP",
+      "link": "https://2027.naacl.org/",
+      "place": "San Francisco, California, USA",
+      "conference_start": "2027-06-01",
+      "conference_end": "2027-06-05",
+      "timezone": "AoE",
+      "deadlines": {
+        "submission": "2026-10-12T23:59:59-12:00"
+      },
+      "confidence": {
+        "submission": "medium",
+        "place": "medium"
+      },
+      "source": "https://2027.naacl.org/",
+      "note": ""
+    },
+    {
+      "id": "www27",
+      "title": "WWW",
+      "full_name": "The Web Conference",
+      "year": 2027,
+      "category": "DM-IR",
+      "link": "https://acmweb2027.org/",
+      "place": "Dublin, Ireland",
+      "conference_start": "2027-05-10",
+      "conference_end": "2027-05-14",
+      "timezone": "AoE",
+      "deadlines": {
+        "submission": "2026-10-18T23:59:59-12:00",
+        "abstract": "2026-10-11T23:59:59-12:00"
+      },
+      "confidence": {
+        "submission": "medium",
+        "abstract": "medium"
+      },
+      "source": "https://acmweb2027.org/",
+      "note": "数据来源: ccf-deadlines"
+    }
+  ]
+};
