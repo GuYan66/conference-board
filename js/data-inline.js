@@ -1,5 +1,5 @@
 window.CONF_DATA = {
-  "generated_at": "2026-08-02T13:40:37.310419+00:00",
+  "generated_at": "2026-08-02T14:35:30.104041+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -233,15 +233,18 @@ window.CONF_DATA = {
       "conference_end": "2027-02-19",
       "timezone": "AoE",
       "deadlines": {
+        "abstract": "2026-08-17T23:59:59-12:00",
         "submission": "2026-08-24T23:59:59-12:00",
-        "abstract": "2026-08-17T23:59:59-12:00"
+        "camera_ready": "2026-11-02T23:59:59-12:00"
       },
       "confidence": {
+        "abstract": "medium",
         "submission": "medium",
-        "abstract": "medium"
+        "camera_ready": "medium",
+        "place": "medium"
       },
       "source": "https://wsdm-conference.org/2027/",
-      "note": "数据来源: ccf-deadlines"
+      "note": ""
     },
     {
       "id": "icra27",
