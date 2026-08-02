@@ -1,4 +1,4 @@
-# 待人工校验 - 2026-08-01 07:33 生成
+# 待人工校验 - 2026-08-02 13:40 生成
 
 
 ## NeurIPS 2026
@@ -77,8 +77,11 @@
 ## WSDM 2027
 
 - WSDM 2026: 解析无结果 (https://wsdm-conference.org/2026/)
+- WSDM 2027: 解析无结果 (https://wsdm-conference.org/2027/)
+- WSDM 2025: 解析无结果 (https://wsdm-conference.org/2025/)
+- WSDM: 官网无未来届，从 ccf-deadlines 采用 2027
 - 缺失字段: notification
-- 待确认字段: abstract, submission, camera_ready, place
+- 待确认字段: submission, abstract
 - 数据来源: https://wsdm-conference.org/2027/
 
 ## ICRA 2027
