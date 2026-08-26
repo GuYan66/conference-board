@@ -1,4 +1,4 @@
-# 待人工校验 - 2026-08-25 07:09 生成
+# 待人工校验 - 2026-08-26 07:10 生成
 
 
 ## NeurIPS 2026
@@ -78,6 +78,9 @@
 ## WSDM 2027
 
 - WSDM 2026: 解析无结果 (https://wsdm-conference.org/2026/)
+- WSDM 2027: 投稿已截止 (2026-08-24)
+- WSDM 2025: 投稿已截止 (2024-08-14)
+- WSDM: 所有候选投稿已截止，采用最近一届 2027
 - 缺失字段: notification
 - 待确认字段: abstract, submission, camera_ready, place
 - 数据来源: https://wsdm-conference.org/2027/
