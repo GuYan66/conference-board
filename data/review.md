@@ -1,4 +1,4 @@
-# 待人工校验 - 2026-08-26 07:10 生成
+# 待人工校验 - 2026-08-27 17:39 生成
 
 
 ## NeurIPS 2026
@@ -105,7 +105,7 @@
 ## WWW 2027
 
 - WWW 2026: 页面抓取失败 (https://acmweb2026.org/)
-- WWW 2027: 解析无结果 (https://acmweb2027.org/)
+- WWW 2027: 页面抓取失败 (https://acmweb2027.org/)
 - WWW 2025: 页面抓取失败 (https://acmweb2025.org/)
 - WWW: 官网无未来届，从 ccf-deadlines 采用 2027
 - 缺失字段: notification
