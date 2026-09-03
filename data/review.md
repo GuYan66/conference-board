@@ -1,4 +1,4 @@
-# 待人工校验 - 2026-09-02 11:20 生成
+# 待人工校验 - 2026-09-03 11:17 生成
 
 
 ## NeurIPS 2026
@@ -49,7 +49,7 @@
 ## CVPR 2026
 
 - CVPR 2026: 投稿已截止 (2025-11-13)
-- CVPR 2027: 页面抓取失败 (https://cvpr.thecvf.com/Conferences/2027/Dates)
+- CVPR 2027: 解析无结果 (https://cvpr.thecvf.com/Conferences/2027/Dates)
 - CVPR 2025: 投稿已截止 (2024-11-08)
 - CVPR: 所有候选投稿已截止，采用最近一届 2026
 - 待确认字段: place
