@@ -1,5 +1,5 @@
 window.CONF_DATA = {
-  "generated_at": "2026-09-03T11:17:05.528448+00:00",
+  "generated_at": "2026-09-04T11:20:06.848687+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -135,34 +135,32 @@ window.CONF_DATA = {
       "note": ""
     },
     {
-      "id": "cvpr26",
+      "id": "cvpr27",
       "title": "CVPR",
       "full_name": "Conference on Computer Vision and Pattern Recognition",
-      "year": 2026,
+      "year": 2027,
       "category": "CV",
-      "link": "https://cvpr.thecvf.com/Conferences/2026",
-      "place": "Denver, Colorado, United States",
-      "conference_start": "2026-06-05",
-      "conference_end": "2026-06-07",
+      "link": "https://cvpr.thecvf.com/Conferences/2027",
+      "place": "Seattle, WA, United States",
+      "conference_start": "2027-06-22",
+      "conference_end": "2027-06-25",
       "timezone": "AoE",
       "deadlines": {
-        "abstract": "2025-11-07T23:59:59-12:00",
-        "submission": "2025-11-13T23:59:59-12:00",
-        "supplementary": "2025-11-20T23:59:59-12:00",
-        "rebuttal_start": "2026-01-22T23:59:59-12:00",
-        "rebuttal_end": "2026-01-29T23:59:59-12:00",
-        "notification": "2026-02-20T23:59:59-12:00"
+        "submission": "2026-11-10T23:59:59-12:00",
+        "supplementary": "2026-11-23T23:59:59-12:00",
+        "rebuttal_start": "2027-01-25T23:59:59-12:00",
+        "notification": "2027-02-25T23:59:59-12:00",
+        "abstract": "2026-11-10T23:59:00-12:00"
       },
       "confidence": {
-        "abstract": "high",
         "submission": "high",
         "supplementary": "high",
         "rebuttal_start": "high",
-        "rebuttal_end": "high",
         "notification": "high",
-        "place": "medium"
+        "place": "medium",
+        "abstract": "medium"
       },
-      "source": "https://cvpr.thecvf.com/Conferences/2026/Dates",
+      "source": "https://cvpr.thecvf.com/Conferences/2027/Dates",
       "note": ""
     },
     {
@@ -293,20 +291,20 @@ window.CONF_DATA = {
       "full_name": "The Web Conference",
       "year": 2027,
       "category": "DM-IR",
-      "link": "https://acmweb2027.org/",
+      "link": "https://www2027.thewebconf.org/",
       "place": "Dublin, Ireland",
       "conference_start": "2027-05-10",
       "conference_end": "2027-05-14",
       "timezone": "AoE",
       "deadlines": {
-        "submission": "2026-10-18T23:59:59-12:00",
-        "abstract": "2026-10-11T23:59:59-12:00"
+        "submission": "2026-10-25T23:59:59-12:00",
+        "abstract": "2026-10-18T23:59:59-12:00"
       },
       "confidence": {
         "submission": "medium",
         "abstract": "medium"
       },
-      "source": "https://acmweb2027.org/",
+      "source": "https://www2027.thewebconf.org/",
       "note": "数据来源: ccf-deadlines"
     }
   ]
