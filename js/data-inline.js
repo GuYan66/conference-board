@@ -1,5 +1,5 @@
 window.CONF_DATA = {
-  "generated_at": "2026-09-12T10:49:33.708649+00:00",
+  "generated_at": "2026-09-13T11:54:58.039617+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -9,8 +9,8 @@ window.CONF_DATA = {
       "category": "AI-ML",
       "link": "https://neurips.cc/Conferences/2026",
       "place": "Sydney, Australia",
-      "conference_start": null,
-      "conference_end": null,
+      "conference_start": "2026-12-06",
+      "conference_end": "2026-12-12",
       "timezone": "AoE",
       "deadlines": {
         "abstract": "2026-05-04T23:59:59-12:00",
@@ -231,15 +231,13 @@ window.CONF_DATA = {
       "conference_end": "2027-02-19",
       "timezone": "AoE",
       "deadlines": {
-        "abstract": "2026-08-17T23:59:59-12:00",
-        "submission": "2026-08-24T23:59:59-12:00",
-        "camera_ready": "2026-11-02T23:59:59-12:00"
+        "submission": "2026-09-25T23:59:59-12:00",
+        "abstract": "2026-08-17T23:59:59-12:00"
       },
       "confidence": {
-        "abstract": "medium",
         "submission": "medium",
-        "camera_ready": "medium",
-        "place": "medium"
+        "place": "medium",
+        "abstract": "medium"
       },
       "source": "https://wsdm-conference.org/2027/",
       "note": ""
