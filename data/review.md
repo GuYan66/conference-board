@@ -1,4 +1,4 @@
-# 待人工校验 - 2026-09-15 11:46 生成
+# 待人工校验 - 2026-09-16 11:38 生成
 
 
 ## NeurIPS 2026
@@ -81,9 +81,6 @@
 ## ICRA 2027
 
 - ICRA 2026: 解析无结果 (https://2026.ieee-icra.org/)
-- ICRA 2027: 解析无结果 (https://2027.ieee-icra.org/)
-- ICRA 2025: 解析无结果 (https://2025.ieee-icra.org/)
-- ICRA: 官网无未来届，从 ccf-deadlines 采用 2027
 - 缺失字段: notification
 - 待确认字段: submission
 - 数据来源: https://2027.ieee-icra.org/
