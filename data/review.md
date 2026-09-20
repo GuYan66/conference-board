@@ -1,4 +1,4 @@
-# 待人工校验 - 2026-09-19 11:01 生成
+# 待人工校验 - 2026-09-20 11:26 生成
 
 
 ## NeurIPS 2026
@@ -71,13 +71,6 @@
 - 待确认字段: place, abstract
 - 数据来源: https://eccv.ecva.net/Conferences/2026/Dates
 
-## WSDM 2027
-
-- WSDM 2026: 解析无结果 (https://wsdm-conference.org/2026/)
-- 缺失字段: notification
-- 待确认字段: submission, place, abstract
-- 数据来源: https://wsdm-conference.org/2027/
-
 ## ICRA 2027
 
 - ICRA 2026: 解析无结果 (https://2026.ieee-icra.org/)
@@ -104,3 +97,10 @@
 - 缺失字段: notification
 - 待确认字段: submission, abstract
 - 数据来源: https://www2027.thewebconf.org/
+
+## 抓取失败
+
+- WSDM 2026: 解析无结果 (https://wsdm-conference.org/2026/)
+- WSDM 2027: 解析无结果 (https://wsdm-conference.org/2027/)
+- WSDM 2025: 解析无结果 (https://wsdm-conference.org/2025/)
+- WSDM: 所有候选年份均抓取失败，需人工补录
