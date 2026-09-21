@@ -1,4 +1,4 @@
-# 待人工校验 - 2026-09-20 11:26 生成
+# 待人工校验 - 2026-09-21 12:51 生成
 
 
 ## NeurIPS 2026
@@ -53,7 +53,7 @@
 
 ## ICCV 2025
 
-- ICCV 2027: 页面抓取失败 (https://iccv.thecvf.com/Conferences/2027/Dates)
+- ICCV 2027: 解析无结果 (https://iccv.thecvf.com/Conferences/2027/Dates)
 - ICCV 2029: 页面抓取失败 (https://iccv.thecvf.com/Conferences/2029/Dates)
 - ICCV 2025: 投稿已截止 (2025-03-03)
 - ICCV: 所有候选投稿已截止，采用最近一届 2025
@@ -70,6 +70,13 @@
 - ECCV: 所有候选投稿已截止，采用最近一届 2026
 - 待确认字段: place, abstract
 - 数据来源: https://eccv.ecva.net/Conferences/2026/Dates
+
+## WSDM 2027
+
+- WSDM 2026: 解析无结果 (https://wsdm-conference.org/2026/)
+- 缺失字段: notification
+- 待确认字段: submission, place, abstract
+- 数据来源: https://wsdm-conference.org/2027/
 
 ## ICRA 2027
 
@@ -97,10 +104,3 @@
 - 缺失字段: notification
 - 待确认字段: submission, abstract
 - 数据来源: https://www2027.thewebconf.org/
-
-## 抓取失败
-
-- WSDM 2026: 解析无结果 (https://wsdm-conference.org/2026/)
-- WSDM 2027: 解析无结果 (https://wsdm-conference.org/2027/)
-- WSDM 2025: 解析无结果 (https://wsdm-conference.org/2025/)
-- WSDM: 所有候选年份均抓取失败，需人工补录
