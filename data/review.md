@@ -1,4 +1,4 @@
-# 待人工校验 - 2026-09-22 11:41 生成
+# 待人工校验 - 2026-09-23 11:39 生成
 
 
 ## NeurIPS 2026
@@ -7,7 +7,6 @@
 - NeurIPS 2027: 页面抓取失败 (https://neurips.cc/Conferences/2027/Dates)
 - NeurIPS 2025: 投稿已截止 (2025-05-15)
 - NeurIPS: 所有候选投稿已截止，采用最近一届 2026
-- 待确认字段: place
 - 数据来源: https://neurips.cc/Conferences/2026/Dates
 
 ## ICML 2026

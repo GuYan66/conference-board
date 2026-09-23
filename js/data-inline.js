@@ -1,5 +1,5 @@
 window.CONF_DATA = {
-  "generated_at": "2026-09-22T11:41:18.834225+00:00",
+  "generated_at": "2026-09-23T11:39:57.037646+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -8,7 +8,7 @@ window.CONF_DATA = {
       "year": 2026,
       "category": "AI-ML",
       "link": "https://neurips.cc/Conferences/2026",
-      "place": "Sydney, Australia",
+      "place": "Assignment Notifications",
       "conference_start": "2026-12-06",
       "conference_end": "2026-12-12",
       "timezone": "AoE",
@@ -24,8 +24,7 @@ window.CONF_DATA = {
         "submission": "high",
         "rebuttal_start": "high",
         "rebuttal_end": "high",
-        "notification": "high",
-        "place": "medium"
+        "notification": "high"
       },
       "source": "https://neurips.cc/Conferences/2026/Dates",
       "note": ""
