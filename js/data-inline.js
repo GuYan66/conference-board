@@ -1,5 +1,5 @@
 window.CONF_DATA = {
-  "generated_at": "2026-09-24T11:48:32.767598+00:00",
+  "generated_at": "2026-09-25T11:53:16.057408+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -38,7 +38,7 @@ window.CONF_DATA = {
       "link": "https://icml.cc/Conferences/2026",
       "place": "Seoul, Korea",
       "conference_start": "2026-07-06",
-      "conference_end": "2026-07-12",
+      "conference_end": "2026-07-11",
       "timezone": "AoE",
       "deadlines": {
         "abstract": "2026-01-23T23:59:59-12:00",
