@@ -1,5 +1,5 @@
 window.CONF_DATA = {
-  "generated_at": "2026-09-27T12:05:21.810009+00:00",
+  "generated_at": "2026-09-28T13:58:38.664219+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -273,10 +273,12 @@ window.CONF_DATA = {
       "conference_end": "2027-06-05",
       "timezone": "AoE",
       "deadlines": {
-        "submission": "2026-10-12T23:59:59-12:00"
+        "notification": "2026-09-04T23:59:59-12:00",
+        "submission": "2026-10-02T23:59:59-12:00"
       },
       "confidence": {
-        "submission": "medium",
+        "notification": "low",
+        "submission": "low",
         "place": "medium"
       },
       "source": "https://2027.naacl.org/",
