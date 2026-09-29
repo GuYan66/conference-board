@@ -1,5 +1,5 @@
 window.CONF_DATA = {
-  "generated_at": "2026-09-28T13:58:38.664219+00:00",
+  "generated_at": "2026-09-29T12:55:41.803427+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -112,25 +112,25 @@ window.CONF_DATA = {
       "note": ""
     },
     {
-      "id": "ijcai26",
+      "id": "ijcai27",
       "title": "IJCAI",
       "full_name": "International Joint Conference on Artificial Intelligence",
-      "year": 2026,
+      "year": 2027,
       "category": "AI-ML",
-      "link": "https://2026.ijcai.org/",
-      "place": "Bremen, Germany",
-      "conference_start": "2026-08-15",
-      "conference_end": "2026-08-21",
+      "link": "https://2027.ijcai.org/",
+      "place": "Kyoto, Japan",
+      "conference_start": "2027-08-07",
+      "conference_end": "2027-08-13",
       "timezone": "AoE",
       "deadlines": {
-        "submission": "2026-01-19T23:59:59-12:00",
-        "abstract": "2026-01-12T23:59:59-12:00"
+        "submission": "2027-01-04T23:59:59-12:00",
+        "abstract": "2027-01-11T23:59:59-12:00"
       },
       "confidence": {
-        "submission": "medium",
-        "abstract": "medium"
+        "submission": "low",
+        "abstract": "low"
       },
-      "source": "https://2026.ijcai.org/",
+      "source": "https://2027.ijcai.org/",
       "note": ""
     },
     {

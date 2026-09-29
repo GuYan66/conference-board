@@ -1,4 +1,4 @@
-# 待人工校验 - 2026-09-28 13:58 生成
+# 待人工校验 - 2026-09-29 12:55 生成
 
 
 ## NeurIPS 2026
@@ -35,15 +35,13 @@
 - 待确认字段: abstract, submission, supplementary, rebuttal_start, notification, camera_ready
 - 数据来源: https://aaai.org/conference/aaai/aaai-27/
 
-## IJCAI 2026
+## IJCAI 2027
 
 - IJCAI 2026: 投稿已截止 (2026-01-19)
-- IJCAI 2027: 页面抓取失败 (https://2027.ijcai.org/)
-- IJCAI 2025: 投稿已截止 (2025-01-16)
-- IJCAI: 所有候选投稿已截止，采用最近一届 2026
+- 顺序异常: abstract(2027-01-11) 晚于 submission(2027-01-04) — 疑似字段错配, 请核对官网
 - 缺失字段: notification
 - 待确认字段: submission, abstract
-- 数据来源: https://2026.ijcai.org/
+- 数据来源: https://2027.ijcai.org/
 
 ## CVPR 2027
 
