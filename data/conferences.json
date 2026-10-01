@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:37:24.610201+00:00",
+  "generated_at": "2026-10-01T13:18:49.875182+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -169,7 +169,7 @@
       "year": 2025,
       "category": "CV",
       "link": "https://iccv.thecvf.com/Conferences/2025",
-      "place": "Honolulu, Hawaii",
+      "place": "Honolulu, Hawaii (Hybrid)",
       "conference_start": "2025-10-21",
       "conference_end": "2025-10-23",
       "timezone": "AoE",
