@@ -1,5 +1,5 @@
 window.CONF_DATA = {
-  "generated_at": "2026-10-01T13:18:49.875182+00:00",
+  "generated_at": "2026-10-02T12:38:15.686250+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -36,9 +36,9 @@ window.CONF_DATA = {
       "year": 2026,
       "category": "AI-ML",
       "link": "https://icml.cc/Conferences/2026",
-      "place": "Seoul, Korea",
-      "conference_start": "2026-07-06",
-      "conference_end": "2026-07-11",
+      "place": null,
+      "conference_start": null,
+      "conference_end": null,
       "timezone": "AoE",
       "deadlines": {
         "abstract": "2026-01-23T23:59:59-12:00",
@@ -48,8 +48,7 @@ window.CONF_DATA = {
       "confidence": {
         "abstract": "high",
         "submission": "high",
-        "rebuttal_start": "high",
-        "place": "medium"
+        "rebuttal_start": "high"
       },
       "source": "https://icml.cc/Conferences/2026/Dates",
       "note": ""
