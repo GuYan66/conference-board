@@ -1,4 +1,4 @@
-# 待人工校验 - 2026-10-02 12:38 生成
+# 待人工校验 - 2026-10-03 11:41 生成
 
 
 ## NeurIPS 2026
@@ -16,7 +16,8 @@
 - ICML 2027: 页面抓取失败 (https://icml.cc/Conferences/2027/Dates)
 - ICML 2025: 投稿已截止 (2025-01-30)
 - ICML: 所有候选投稿已截止，采用最近一届 2026
-- 缺失字段: notification, conference_start, place
+- 缺失字段: notification
+- 待确认字段: place
 - 数据来源: https://icml.cc/Conferences/2026/Dates
 
 ## ICLR 2027
