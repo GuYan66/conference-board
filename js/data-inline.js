@@ -1,5 +1,5 @@
 window.CONF_DATA = {
-  "generated_at": "2026-10-04T12:24:11.323941+00:00",
+  "generated_at": "2026-10-05T14:43:35.196159+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -140,7 +140,7 @@ window.CONF_DATA = {
       "year": 2027,
       "category": "CV",
       "link": "https://cvpr.thecvf.com/Conferences/2027",
-      "place": "Seattle, WA, United States",
+      "place": null,
       "conference_start": "2027-06-22",
       "conference_end": "2027-06-25",
       "timezone": "AoE",
@@ -148,16 +148,13 @@ window.CONF_DATA = {
         "submission": "2026-11-10T23:59:59-12:00",
         "supplementary": "2026-11-23T23:59:59-12:00",
         "rebuttal_start": "2027-01-25T23:59:59-12:00",
-        "notification": "2027-02-25T23:59:59-12:00",
-        "abstract": "2026-11-10T23:59:00-12:00"
+        "notification": "2027-02-25T23:59:59-12:00"
       },
       "confidence": {
         "submission": "high",
         "supplementary": "high",
         "rebuttal_start": "high",
-        "notification": "high",
-        "place": "medium",
-        "abstract": "medium"
+        "notification": "high"
       },
       "source": "https://cvpr.thecvf.com/Conferences/2027/Dates",
       "note": ""
@@ -225,18 +222,15 @@ window.CONF_DATA = {
       "year": 2027,
       "category": "DM-IR",
       "link": "https://wsdm-conference.org/2027/",
-      "place": "Cordis, Hong Kong SAR, China",
-      "conference_start": "2027-02-15",
-      "conference_end": "2027-02-19",
+      "place": null,
+      "conference_start": null,
+      "conference_end": null,
       "timezone": "AoE",
       "deadlines": {
-        "submission": "2026-10-06T23:59:59-12:00",
-        "abstract": "2026-08-17T23:59:59-12:00"
+        "submission": "2026-10-06T23:59:59-12:00"
       },
       "confidence": {
-        "submission": "medium",
-        "place": "medium",
-        "abstract": "medium"
+        "submission": "medium"
       },
       "source": "https://wsdm-conference.org/2027/",
       "note": ""

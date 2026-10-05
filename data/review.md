@@ -1,4 +1,4 @@
-# 待人工校验 - 2026-10-04 12:24 生成
+# 待人工校验 - 2026-10-05 14:43 生成
 
 
 ## NeurIPS 2026
@@ -46,7 +46,7 @@
 ## CVPR 2027
 
 - CVPR 2026: 投稿已截止 (2025-11-13)
-- 待确认字段: place, abstract
+- 缺失字段: place
 - 数据来源: https://cvpr.thecvf.com/Conferences/2027/Dates
 
 ## ICCV 2025
@@ -72,8 +72,8 @@
 ## WSDM 2027
 
 - WSDM 2026: 解析无结果 (https://wsdm-conference.org/2026/)
-- 缺失字段: notification
-- 待确认字段: submission, place, abstract
+- 缺失字段: notification, conference_start, place
+- 待确认字段: submission
 - 数据来源: https://wsdm-conference.org/2027/
 
 ## ICRA 2027
