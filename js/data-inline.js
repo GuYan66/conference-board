@@ -1,5 +1,5 @@
 window.CONF_DATA = {
-  "generated_at": "2026-10-05T14:43:35.196159+00:00",
+  "generated_at": "2026-10-06T13:20:28.145607+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -140,7 +140,7 @@ window.CONF_DATA = {
       "year": 2027,
       "category": "CV",
       "link": "https://cvpr.thecvf.com/Conferences/2027",
-      "place": null,
+      "place": "Seattle, WA, United States",
       "conference_start": "2027-06-22",
       "conference_end": "2027-06-25",
       "timezone": "AoE",
@@ -148,13 +148,16 @@ window.CONF_DATA = {
         "submission": "2026-11-10T23:59:59-12:00",
         "supplementary": "2026-11-23T23:59:59-12:00",
         "rebuttal_start": "2027-01-25T23:59:59-12:00",
-        "notification": "2027-02-25T23:59:59-12:00"
+        "notification": "2027-02-25T23:59:59-12:00",
+        "abstract": "2026-11-10T23:59:59-12:00"
       },
       "confidence": {
         "submission": "high",
         "supplementary": "high",
         "rebuttal_start": "high",
-        "notification": "high"
+        "notification": "high",
+        "place": "medium",
+        "abstract": "medium"
       },
       "source": "https://cvpr.thecvf.com/Conferences/2027/Dates",
       "note": ""
@@ -193,7 +196,7 @@ window.CONF_DATA = {
       "year": 2026,
       "category": "CV",
       "link": "https://eccv.ecva.net/Conferences/2026",
-      "place": "Malmö, Sweden",
+      "place": null,
       "conference_start": "2026-09-10",
       "conference_end": "2026-09-12",
       "timezone": "AoE",
@@ -201,16 +204,13 @@ window.CONF_DATA = {
         "submission": "2026-02-26T23:59:59-12:00",
         "rebuttal_start": "2026-05-02T23:59:59-12:00",
         "notification": "2026-06-17T23:59:59-12:00",
-        "camera_ready": "2026-06-30T23:59:59-12:00",
-        "abstract": "2026-02-26T14:00:00-12:00"
+        "camera_ready": "2026-06-30T23:59:59-12:00"
       },
       "confidence": {
         "submission": "high",
         "rebuttal_start": "high",
         "notification": "high",
-        "camera_ready": "high",
-        "place": "medium",
-        "abstract": "medium"
+        "camera_ready": "high"
       },
       "source": "https://eccv.ecva.net/Conferences/2026/Dates",
       "note": ""
@@ -222,15 +222,18 @@ window.CONF_DATA = {
       "year": 2027,
       "category": "DM-IR",
       "link": "https://wsdm-conference.org/2027/",
-      "place": null,
-      "conference_start": null,
-      "conference_end": null,
+      "place": "Cordis, Hong Kong SAR, China",
+      "conference_start": "2027-02-15",
+      "conference_end": "2027-02-19",
       "timezone": "AoE",
       "deadlines": {
-        "submission": "2026-10-06T23:59:59-12:00"
+        "submission": "2026-10-06T23:59:59-12:00",
+        "abstract": "2026-08-17T23:59:59-12:00"
       },
       "confidence": {
-        "submission": "medium"
+        "submission": "medium",
+        "place": "medium",
+        "abstract": "medium"
       },
       "source": "https://wsdm-conference.org/2027/",
       "note": ""
