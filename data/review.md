@@ -1,4 +1,4 @@
-# 待人工校验 - 2026-10-09 13:19 生成
+# 待人工校验 - 2026-10-10 12:34 生成
 
 
 ## NeurIPS 2026
@@ -32,7 +32,7 @@
 - AAAI 2027: 投稿已截止 (2026-07-28)
 - AAAI 2025: 投稿已截止 (2024-08-15)
 - AAAI: 所有候选投稿已截止，采用最近一届 2027
-- 待确认字段: abstract, submission, supplementary, rebuttal_start, notification, camera_ready
+- 待确认字段: abstract, submission, supplementary, notification, camera_ready
 - 数据来源: https://aaai.org/conference/aaai/aaai-27/
 
 ## IJCAI 2027

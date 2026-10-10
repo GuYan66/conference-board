@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T13:19:58.358482+00:00",
+  "generated_at": "2026-10-10T12:34:44.813079+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -96,7 +96,6 @@
         "abstract": "2026-07-21T23:59:59-12:00",
         "submission": "2026-07-28T23:59:59-12:00",
         "supplementary": "2026-07-31T23:59:59-12:00",
-        "rebuttal_start": "2026-09-24T23:59:59-12:00",
         "notification": "2026-11-30T23:59:59-12:00",
         "camera_ready": "2026-12-14T23:59:59-12:00"
       },
@@ -104,7 +103,6 @@
         "abstract": "medium",
         "submission": "medium",
         "supplementary": "medium",
-        "rebuttal_start": "medium",
         "notification": "medium",
         "camera_ready": "medium"
       },
