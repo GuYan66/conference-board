@@ -1,4 +1,4 @@
-# 待人工校验 - 2026-10-14 11:55 生成
+# 待人工校验 - 2026-10-15 11:32 生成
 
 
 ## NeurIPS 2026
@@ -79,16 +79,6 @@
 - 待确认字段: submission, place, abstract
 - 数据来源: https://wsdm-conference.org/2027/
 
-## ICRA 2027
-
-- ICRA 2026: 解析无结果 (https://2026.ieee-icra.org/)
-- ICRA 2027: 投稿已截止 (2026-09-16)
-- ICRA 2025: 解析无结果 (https://2025.ieee-icra.org/)
-- ICRA: 所有候选投稿已截止，采用最近一届 2027
-- 缺失字段: notification
-- 待确认字段: submission
-- 数据来源: https://2027.ieee-icra.org/
-
 ## NAACL 2027
 
 - NAACL 2026: 页面抓取失败 (https://2026.naacl.org/)
@@ -96,7 +86,8 @@
 - NAACL 2025: 投稿已截止 (2024-10-15)
 - NAACL: 所有候选投稿已截止，采用最近一届 2027
 - 顺序异常: submission(2026-10-02) 晚于 notification(2026-09-04) — 疑似字段错配, 请核对官网
-- 待确认字段: notification, submission, place
+- 缺失字段: place
+- 待确认字段: notification, submission
 - 数据来源: https://2027.naacl.org/
 
 ## WWW 2027
@@ -108,3 +99,10 @@
 - 缺失字段: notification
 - 待确认字段: submission, abstract
 - 数据来源: https://www2027.thewebconf.org/
+
+## 抓取失败
+
+- ICRA 2026: 解析无结果 (https://2026.ieee-icra.org/)
+- ICRA 2027: 解析无结果 (https://2027.ieee-icra.org/)
+- ICRA 2025: 解析无结果 (https://2025.ieee-icra.org/)
+- ICRA: 所有候选年份均抓取失败，需人工补录

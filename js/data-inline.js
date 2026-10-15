@@ -1,5 +1,5 @@
 window.CONF_DATA = {
-  "generated_at": "2026-10-14T11:55:29.841091+00:00",
+  "generated_at": "2026-10-15T11:32:17.248226+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -240,33 +240,13 @@ window.CONF_DATA = {
       "note": ""
     },
     {
-      "id": "icra27",
-      "title": "ICRA",
-      "full_name": "IEEE International Conference on Robotics and Automation",
-      "year": 2027,
-      "category": "RO",
-      "link": "https://2027.ieee-icra.org/",
-      "place": "Seoul, South",
-      "conference_start": "2027-05-24",
-      "conference_end": "2027-05-28",
-      "timezone": "AoE",
-      "deadlines": {
-        "submission": "2026-09-16T23:59:59-12:00"
-      },
-      "confidence": {
-        "submission": "medium"
-      },
-      "source": "https://2027.ieee-icra.org/",
-      "note": ""
-    },
-    {
       "id": "naacl27",
       "title": "NAACL",
       "full_name": "Conference of the North American Chapter of the Association for Computational Linguistics",
       "year": 2027,
       "category": "NLP",
       "link": "https://2027.naacl.org/",
-      "place": "San Francisco, California, USA",
+      "place": null,
       "conference_start": "2027-06-01",
       "conference_end": "2027-06-05",
       "timezone": "AoE",
@@ -276,8 +256,7 @@ window.CONF_DATA = {
       },
       "confidence": {
         "notification": "low",
-        "submission": "low",
-        "place": "medium"
+        "submission": "low"
       },
       "source": "https://2027.naacl.org/",
       "note": ""
