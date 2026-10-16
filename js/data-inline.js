@@ -1,5 +1,5 @@
 window.CONF_DATA = {
-  "generated_at": "2026-10-15T11:32:17.248226+00:00",
+  "generated_at": "2026-10-16T11:26:59.270819+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -246,7 +246,7 @@ window.CONF_DATA = {
       "year": 2027,
       "category": "NLP",
       "link": "https://2027.naacl.org/",
-      "place": null,
+      "place": "San Francisco, California, USA",
       "conference_start": "2027-06-01",
       "conference_end": "2027-06-05",
       "timezone": "AoE",
@@ -256,7 +256,8 @@ window.CONF_DATA = {
       },
       "confidence": {
         "notification": "low",
-        "submission": "low"
+        "submission": "low",
+        "place": "medium"
       },
       "source": "https://2027.naacl.org/",
       "note": ""

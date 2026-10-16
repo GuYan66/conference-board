@@ -1,4 +1,4 @@
-# 待人工校验 - 2026-10-15 11:32 生成
+# 待人工校验 - 2026-10-16 11:26 生成
 
 
 ## NeurIPS 2026
@@ -86,8 +86,7 @@
 - NAACL 2025: 投稿已截止 (2024-10-15)
 - NAACL: 所有候选投稿已截止，采用最近一届 2027
 - 顺序异常: submission(2026-10-02) 晚于 notification(2026-09-04) — 疑似字段错配, 请核对官网
-- 缺失字段: place
-- 待确认字段: notification, submission
+- 待确认字段: notification, submission, place
 - 数据来源: https://2027.naacl.org/
 
 ## WWW 2027
