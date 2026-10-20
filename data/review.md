@@ -1,4 +1,4 @@
-# 待人工校验 - 2026-10-19 13:20 生成
+# 待人工校验 - 2026-10-20 11:40 生成
 
 
 ## NeurIPS 2026
@@ -23,7 +23,7 @@
 ## ICLR 2027
 
 - ICLR 2026: 投稿已截止 (2025-09-24)
-- 待确认字段: place, submission
+- 缺失字段: submission, place
 - 数据来源: https://iclr.cc/Conferences/2027/Dates
 
 ## AAAI 2027
@@ -72,9 +72,6 @@
 ## WSDM 2027
 
 - WSDM 2026: 解析无结果 (https://wsdm-conference.org/2026/)
-- WSDM 2027: 投稿已截止 (2026-10-06)
-- WSDM 2025: 投稿已截止 (2024-08-14)
-- WSDM: 所有候选投稿已截止，采用最近一届 2027
 - 缺失字段: notification
 - 待确认字段: submission, place, abstract
 - 数据来源: https://wsdm-conference.org/2027/
