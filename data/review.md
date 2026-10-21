@@ -1,4 +1,4 @@
-# 待人工校验 - 2026-10-20 11:40 生成
+# 待人工校验 - 2026-10-21 11:51 生成
 
 
 ## NeurIPS 2026
@@ -23,7 +23,7 @@
 ## ICLR 2027
 
 - ICLR 2026: 投稿已截止 (2025-09-24)
-- 缺失字段: submission, place
+- 待确认字段: place, submission
 - 数据来源: https://iclr.cc/Conferences/2027/Dates
 
 ## AAAI 2027
