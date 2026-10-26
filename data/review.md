@@ -1,4 +1,4 @@
-# 待人工校验 - 2026-10-25 11:33 生成
+# 待人工校验 - 2026-10-26 13:06 生成
 
 
 ## NeurIPS 2026
@@ -89,19 +89,16 @@
 - 待确认字段: notification, submission, place
 - 数据来源: https://2027.naacl.org/
 
-## WWW 2027
-
-- WWW 2026: 页面抓取失败 (https://acmweb2026.org/)
-- WWW 2027: 解析无结果 (https://acmweb2027.org/)
-- WWW 2025: 页面抓取失败 (https://acmweb2025.org/)
-- WWW: 官网无未来届，从 ccf-deadlines 采用 2027
-- 缺失字段: notification
-- 待确认字段: submission, abstract
-- 数据来源: https://www2027.thewebconf.org/
-
 ## 抓取失败
 
 - ICRA 2026: 解析无结果 (https://2026.ieee-icra.org/)
 - ICRA 2027: 解析无结果 (https://2027.ieee-icra.org/)
 - ICRA 2025: 解析无结果 (https://2025.ieee-icra.org/)
 - ICRA: 所有候选年份均抓取失败，需人工补录
+
+## 抓取失败
+
+- WWW 2026: 页面抓取失败 (https://acmweb2026.org/)
+- WWW 2027: 解析无结果 (https://acmweb2027.org/)
+- WWW 2025: 页面抓取失败 (https://acmweb2025.org/)
+- WWW: 所有候选年份均抓取失败，需人工补录
