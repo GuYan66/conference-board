@@ -1,4 +1,4 @@
-# 待人工校验 - 2026-10-30 12:58 生成
+# 待人工校验 - 2026-10-31 12:34 生成
 
 
 ## NeurIPS 2026
@@ -69,13 +69,6 @@
 - 待确认字段: place, abstract
 - 数据来源: https://eccv.ecva.net/Conferences/2026/Dates
 
-## WSDM 2027
-
-- WSDM 2026: 解析无结果 (https://wsdm-conference.org/2026/)
-- 缺失字段: notification
-- 待确认字段: submission, place, abstract
-- 数据来源: https://wsdm-conference.org/2027/
-
 ## NAACL 2027
 
 - NAACL 2026: 页面抓取失败 (https://2026.naacl.org/)
@@ -85,6 +78,13 @@
 - 顺序异常: submission(2026-10-02) 晚于 notification(2026-09-04) — 疑似字段错配, 请核对官网
 - 待确认字段: notification, submission, place
 - 数据来源: https://2027.naacl.org/
+
+## 抓取失败
+
+- WSDM 2026: 解析无结果 (https://wsdm-conference.org/2026/)
+- WSDM 2027: 解析无结果 (https://wsdm-conference.org/2027/)
+- WSDM 2025: 解析无结果 (https://wsdm-conference.org/2025/)
+- WSDM: 所有候选年份均抓取失败，需人工补录
 
 ## 抓取失败
 
