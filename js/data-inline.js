@@ -1,5 +1,5 @@
 window.CONF_DATA = {
-  "generated_at": "2026-11-03T14:18:28.065653+00:00",
+  "generated_at": "2026-11-04T14:35:07.550209+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -17,14 +17,16 @@ window.CONF_DATA = {
         "submission": "2026-05-06T23:59:59-12:00",
         "rebuttal_start": "2026-07-22T23:59:59-12:00",
         "rebuttal_end": "2026-08-03T23:59:59-12:00",
-        "notification": "2026-09-24T23:59:59-12:00"
+        "notification": "2026-09-24T23:59:59-12:00",
+        "camera_ready": "2026-11-06T23:59:59-12:00"
       },
       "confidence": {
         "abstract": "high",
         "submission": "high",
         "rebuttal_start": "high",
         "rebuttal_end": "high",
-        "notification": "high"
+        "notification": "high",
+        "camera_ready": "high"
       },
       "source": "https://neurips.cc/Conferences/2026/Dates",
       "note": ""
