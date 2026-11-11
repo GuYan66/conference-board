@@ -1,5 +1,5 @@
 window.CONF_DATA = {
-  "generated_at": "2026-11-10T14:55:03.939318+00:00",
+  "generated_at": "2026-11-11T14:26:11.871160+00:00",
   "conferences": [
     {
       "id": "neurips26",
