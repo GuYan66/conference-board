@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:26:11.871160+00:00",
+  "generated_at": "2026-11-12T15:17:13.165386+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -32,28 +32,28 @@
       "note": ""
     },
     {
-      "id": "icml26",
+      "id": "icml27",
       "title": "ICML",
       "full_name": "International Conference on Machine Learning",
-      "year": 2026,
+      "year": 2027,
       "category": "AI-ML",
-      "link": "https://icml.cc/Conferences/2026",
-      "place": "Seoul, Korea",
-      "conference_start": "2026-07-06",
-      "conference_end": "2026-07-11",
+      "link": "https://icml.cc/Conferences/2027",
+      "place": "Riocentro, Rio de Janeiro, Brazil",
+      "conference_start": "2027-08-02",
+      "conference_end": "2027-08-04",
       "timezone": "AoE",
       "deadlines": {
-        "abstract": "2026-01-23T23:59:59-12:00",
-        "submission": "2026-01-28T23:59:59-12:00",
-        "rebuttal_start": "2026-03-24T23:59:59-12:00"
+        "abstract": "2027-01-14T23:59:59-12:00",
+        "submission": "2027-01-22T23:59:59-12:00",
+        "notification": "2027-05-03T23:59:59-12:00"
       },
       "confidence": {
         "abstract": "high",
         "submission": "high",
-        "rebuttal_start": "high",
+        "notification": "high",
         "place": "medium"
       },
-      "source": "https://icml.cc/Conferences/2026/Dates",
+      "source": "https://icml.cc/Conferences/2027/Dates",
       "note": ""
     },
     {
