@@ -1,26 +1,5 @@
-# 待人工校验 - 2026-11-12 15:17 生成
+# 待人工校验 - 2026-11-13 14:37 生成
 
-
-## NeurIPS 2026
-
-- NeurIPS 2026: 投稿已截止 (2026-05-06)
-- NeurIPS 2027: 页面抓取失败 (https://neurips.cc/Conferences/2027/Dates)
-- NeurIPS 2025: 投稿已截止 (2025-05-15)
-- NeurIPS: 所有候选投稿已截止，采用最近一届 2026
-- 缺失字段: conference_start
-- 数据来源: https://neurips.cc/Conferences/2026/Dates
-
-## ICML 2027
-
-- ICML 2026: 投稿已截止 (2026-01-28)
-- 待确认字段: place
-- 数据来源: https://icml.cc/Conferences/2027/Dates
-
-## ICLR 2027
-
-- ICLR 2026: 投稿已截止 (2025-09-24)
-- 待确认字段: place, submission
-- 数据来源: https://iclr.cc/Conferences/2027/Dates
 
 ## AAAI 2027
 
@@ -41,32 +20,13 @@
 
 ## CVPR 2027
 
-- CVPR 2026: 投稿已截止 (2025-11-13)
-- CVPR 2027: 投稿已截止 (2026-11-10)
-- CVPR 2025: 投稿已截止 (2024-11-08)
-- CVPR: 所有候选投稿已截止，采用最近一届 2027
-- 待确认字段: place, abstract
-- 数据来源: https://cvpr.thecvf.com/Conferences/2027/Dates
-
-## ICCV 2025
-
-- ICCV 2027: 解析无结果 (https://iccv.thecvf.com/Conferences/2027/Dates)
-- ICCV 2029: 页面抓取失败 (https://iccv.thecvf.com/Conferences/2029/Dates)
-- ICCV 2025: 投稿已截止 (2025-03-03)
-- ICCV: 所有候选投稿已截止，采用最近一届 2025
-- 顺序异常: abstract(2025-03-04) 晚于 submission(2025-03-03) — 疑似字段错配, 请核对官网
+- CVPR 2026: 页面抓取失败 (https://cvpr.thecvf.com/Conferences/2026/Dates)
+- CVPR 2027: 页面抓取失败 (https://cvpr.thecvf.com/Conferences/2027/Dates)
+- CVPR 2025: 页面抓取失败 (https://cvpr.thecvf.com/Conferences/2025/Dates)
+- CVPR: 官网无未来届，从 ccf-deadlines 采用 2027
 - 缺失字段: notification
-- 待确认字段: submission, place, abstract
-- 数据来源: https://iccv.thecvf.com/Conferences/2025/Dates
-
-## ECCV 2026
-
-- ECCV 2026: 投稿已截止 (2026-02-26)
-- ECCV 2028: 页面抓取失败 (https://eccv.ecva.net/Conferences/2028/Dates)
-- ECCV 2024: 投稿已截止 (2024-02-29)
-- ECCV: 所有候选投稿已截止，采用最近一届 2026
-- 待确认字段: place, abstract
-- 数据来源: https://eccv.ecva.net/Conferences/2026/Dates
+- 待确认字段: submission, abstract
+- 数据来源: https://cvpr.thecvf.com/Conferences/2027
 
 ## WSDM 2027
 
@@ -84,6 +44,41 @@
 - 顺序异常: submission(2026-10-02) 晚于 notification(2026-09-04) — 疑似字段错配, 请核对官网
 - 待确认字段: notification, submission, place
 - 数据来源: https://2027.naacl.org/
+
+## 抓取失败
+
+- NeurIPS 2026: 页面抓取失败 (https://neurips.cc/Conferences/2026/Dates)
+- NeurIPS 2027: 页面抓取失败 (https://neurips.cc/Conferences/2027/Dates)
+- NeurIPS 2025: 页面抓取失败 (https://neurips.cc/Conferences/2025/Dates)
+- NeurIPS: 所有候选年份均抓取失败，需人工补录
+
+## 抓取失败
+
+- ICML 2026: 页面抓取失败 (https://icml.cc/Conferences/2026/Dates)
+- ICML 2027: 页面抓取失败 (https://icml.cc/Conferences/2027/Dates)
+- ICML 2025: 页面抓取失败 (https://icml.cc/Conferences/2025/Dates)
+- ICML: 所有候选年份均抓取失败，需人工补录
+
+## 抓取失败
+
+- ICLR 2026: 页面抓取失败 (https://iclr.cc/Conferences/2026/Dates)
+- ICLR 2027: 页面抓取失败 (https://iclr.cc/Conferences/2027/Dates)
+- ICLR 2025: 页面抓取失败 (https://iclr.cc/Conferences/2025/Dates)
+- ICLR: 所有候选年份均抓取失败，需人工补录
+
+## 抓取失败
+
+- ICCV 2027: 页面抓取失败 (https://iccv.thecvf.com/Conferences/2027/Dates)
+- ICCV 2029: 页面抓取失败 (https://iccv.thecvf.com/Conferences/2029/Dates)
+- ICCV 2025: 页面抓取失败 (https://iccv.thecvf.com/Conferences/2025/Dates)
+- ICCV: 所有候选年份均抓取失败，需人工补录
+
+## 抓取失败
+
+- ECCV 2026: 页面抓取失败 (https://eccv.ecva.net/Conferences/2026/Dates)
+- ECCV 2028: 页面抓取失败 (https://eccv.ecva.net/Conferences/2028/Dates)
+- ECCV 2024: 页面抓取失败 (https://eccv.ecva.net/Conferences/2024/Dates)
+- ECCV: 所有候选年份均抓取失败，需人工补录
 
 ## 抓取失败
 
