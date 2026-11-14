@@ -1,6 +1,88 @@
 window.CONF_DATA = {
-  "generated_at": "2026-11-13T14:37:16.232110+00:00",
+  "generated_at": "2026-11-14T13:33:40.305996+00:00",
   "conferences": [
+    {
+      "id": "neurips26",
+      "title": "NeurIPS",
+      "full_name": "Conference on Neural Information Processing Systems",
+      "year": 2026,
+      "category": "AI-ML",
+      "link": "https://neurips.cc/Conferences/2026",
+      "place": "Assignment Notifications",
+      "conference_start": null,
+      "conference_end": null,
+      "timezone": "AoE",
+      "deadlines": {
+        "abstract": "2026-05-04T23:59:59-12:00",
+        "submission": "2026-05-06T23:59:59-12:00",
+        "rebuttal_start": "2026-07-22T23:59:59-12:00",
+        "rebuttal_end": "2026-08-03T23:59:59-12:00",
+        "notification": "2026-09-24T23:59:59-12:00",
+        "camera_ready": "2026-11-06T23:59:59-12:00"
+      },
+      "confidence": {
+        "abstract": "high",
+        "submission": "high",
+        "rebuttal_start": "high",
+        "rebuttal_end": "high",
+        "notification": "high",
+        "camera_ready": "high"
+      },
+      "source": "https://neurips.cc/Conferences/2026/Dates",
+      "note": ""
+    },
+    {
+      "id": "icml27",
+      "title": "ICML",
+      "full_name": "International Conference on Machine Learning",
+      "year": 2027,
+      "category": "AI-ML",
+      "link": "https://icml.cc/Conferences/2027",
+      "place": "Riocentro, Rio de Janeiro, Brazil",
+      "conference_start": "2027-08-02",
+      "conference_end": "2027-08-04",
+      "timezone": "AoE",
+      "deadlines": {
+        "abstract": "2027-01-14T23:59:59-12:00",
+        "submission": "2027-01-22T23:59:59-12:00",
+        "notification": "2027-05-03T23:59:59-12:00"
+      },
+      "confidence": {
+        "abstract": "high",
+        "submission": "high",
+        "notification": "high",
+        "place": "medium"
+      },
+      "source": "https://icml.cc/Conferences/2027/Dates",
+      "note": ""
+    },
+    {
+      "id": "iclr27",
+      "title": "ICLR",
+      "full_name": "International Conference on Learning Representations",
+      "year": 2027,
+      "category": "AI-ML",
+      "link": "https://iclr.cc/Conferences/2027",
+      "place": "San Francisco, CA, USA",
+      "conference_start": "2027-04-26",
+      "conference_end": "2027-04-28",
+      "timezone": "AoE",
+      "deadlines": {
+        "abstract": "2026-09-18T23:59:59-12:00",
+        "rebuttal_start": "2026-11-05T23:59:59-12:00",
+        "notification": "2026-12-16T23:59:59-12:00",
+        "submission": "2026-09-25T23:59:59-12:00"
+      },
+      "confidence": {
+        "abstract": "high",
+        "rebuttal_start": "high",
+        "notification": "high",
+        "place": "medium",
+        "submission": "medium"
+      },
+      "source": "https://iclr.cc/Conferences/2027/Dates",
+      "note": ""
+    },
     {
       "id": "aaai27",
       "title": "AAAI",
@@ -63,15 +145,78 @@ window.CONF_DATA = {
       "conference_end": "2027-06-25",
       "timezone": "AoE",
       "deadlines": {
-        "submission": "2026-11-16T23:59:59-12:00",
+        "submission": "2026-11-10T23:59:59-12:00",
+        "supplementary": "2026-11-23T23:59:59-12:00",
+        "rebuttal_start": "2027-01-25T23:59:59-12:00",
+        "notification": "2027-02-25T23:59:59-12:00",
         "abstract": "2026-11-10T23:59:59-12:00"
       },
       "confidence": {
-        "submission": "medium",
+        "submission": "high",
+        "supplementary": "high",
+        "rebuttal_start": "high",
+        "notification": "high",
+        "place": "medium",
         "abstract": "medium"
       },
-      "source": "https://cvpr.thecvf.com/Conferences/2027",
-      "note": "数据来源: ccf-deadlines"
+      "source": "https://cvpr.thecvf.com/Conferences/2027/Dates",
+      "note": ""
+    },
+    {
+      "id": "iccv25",
+      "title": "ICCV",
+      "full_name": "International Conference on Computer Vision",
+      "year": 2025,
+      "category": "CV",
+      "link": "https://iccv.thecvf.com/Conferences/2025",
+      "place": "Honolulu, Hawaii (Hybrid)",
+      "conference_start": "2025-10-21",
+      "conference_end": "2025-10-23",
+      "timezone": "AoE",
+      "deadlines": {
+        "submission": "2025-03-03T23:59:59-12:00",
+        "supplementary": "2025-03-07T23:59:59-12:00",
+        "rebuttal_start": "2025-05-09T23:59:59-12:00",
+        "abstract": "2025-03-04T09:59:59-12:00"
+      },
+      "confidence": {
+        "submission": "low",
+        "supplementary": "high",
+        "rebuttal_start": "high",
+        "place": "medium",
+        "abstract": "low"
+      },
+      "source": "https://iccv.thecvf.com/Conferences/2025/Dates",
+      "note": ""
+    },
+    {
+      "id": "eccv26",
+      "title": "ECCV",
+      "full_name": "European Conference on Computer Vision",
+      "year": 2026,
+      "category": "CV",
+      "link": "https://eccv.ecva.net/Conferences/2026",
+      "place": "Malmö, Sweden",
+      "conference_start": "2026-09-10",
+      "conference_end": "2026-09-12",
+      "timezone": "AoE",
+      "deadlines": {
+        "submission": "2026-02-26T23:59:59-12:00",
+        "rebuttal_start": "2026-05-02T23:59:59-12:00",
+        "notification": "2026-06-17T23:59:59-12:00",
+        "camera_ready": "2026-06-30T23:59:59-12:00",
+        "abstract": "2026-02-26T14:00:00-12:00"
+      },
+      "confidence": {
+        "submission": "high",
+        "rebuttal_start": "high",
+        "notification": "high",
+        "camera_ready": "high",
+        "place": "medium",
+        "abstract": "medium"
+      },
+      "source": "https://eccv.ecva.net/Conferences/2026/Dates",
+      "note": ""
     },
     {
       "id": "wsdm27",
