@@ -1,5 +1,5 @@
 window.CONF_DATA = {
-  "generated_at": "2026-11-16T15:50:05.159901+00:00",
+  "generated_at": "2026-11-17T16:01:52.778393+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -141,14 +141,15 @@ window.CONF_DATA = {
       "category": "CV",
       "link": "https://cvpr.thecvf.com/Conferences/2027",
       "place": "Seattle, WA, United States",
-      "conference_start": "2027-06-22",
-      "conference_end": "2027-06-25",
+      "conference_start": "2027-01-08",
+      "conference_end": "2027-01-22",
       "timezone": "AoE",
       "deadlines": {
         "submission": "2026-11-10T23:59:59-12:00",
         "supplementary": "2026-11-23T23:59:59-12:00",
         "rebuttal_start": "2027-01-25T23:59:59-12:00",
         "notification": "2027-02-25T23:59:59-12:00",
+        "camera_ready": "2027-04-23T23:59:59-12:00",
         "abstract": "2026-11-10T23:59:59-12:00"
       },
       "confidence": {
@@ -156,6 +157,7 @@ window.CONF_DATA = {
         "supplementary": "high",
         "rebuttal_start": "high",
         "notification": "high",
+        "camera_ready": "high",
         "place": "medium",
         "abstract": "medium"
       },
