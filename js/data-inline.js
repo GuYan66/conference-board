@@ -1,5 +1,5 @@
 window.CONF_DATA = {
-  "generated_at": "2026-11-17T16:01:52.778393+00:00",
+  "generated_at": "2026-11-18T15:42:03.111241+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -232,7 +232,7 @@ window.CONF_DATA = {
       "conference_end": "2027-02-19",
       "timezone": "AoE",
       "deadlines": {
-        "submission": "2026-11-17T23:59:59-12:00",
+        "submission": "2026-11-30T23:59:59-12:00",
         "abstract": "2026-08-17T23:59:59-12:00"
       },
       "confidence": {
