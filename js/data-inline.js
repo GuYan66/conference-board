@@ -1,5 +1,5 @@
 window.CONF_DATA = {
-  "generated_at": "2026-11-20T15:29:08.277418+00:00",
+  "generated_at": "2026-11-21T14:41:16.790917+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -228,8 +228,8 @@ window.CONF_DATA = {
       "category": "DM-IR",
       "link": "https://wsdm-conference.org/2027/",
       "place": "Cordis, Hong Kong SAR, China",
-      "conference_start": "2027-02-15",
-      "conference_end": "2027-02-19",
+      "conference_start": "2027-02-16",
+      "conference_end": "2027-02-18",
       "timezone": "AoE",
       "deadlines": {
         "submission": "2026-11-30T23:59:59-12:00",
