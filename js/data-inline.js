@@ -1,5 +1,5 @@
 window.CONF_DATA = {
-  "generated_at": "2026-11-25T17:15:22.901812+00:00",
+  "generated_at": "2026-11-26T16:56:21.735575+00:00",
   "conferences": [
     {
       "id": "neurips26",
@@ -218,29 +218,6 @@ window.CONF_DATA = {
         "abstract": "medium"
       },
       "source": "https://eccv.ecva.net/Conferences/2026/Dates",
-      "note": ""
-    },
-    {
-      "id": "wsdm27",
-      "title": "WSDM",
-      "full_name": "ACM International Conference on Web Search and Data Mining",
-      "year": 2027,
-      "category": "DM-IR",
-      "link": "https://wsdm-conference.org/2027/",
-      "place": "Cordis, Hong Kong SAR, China",
-      "conference_start": "2027-02-16",
-      "conference_end": "2027-02-18",
-      "timezone": "AoE",
-      "deadlines": {
-        "submission": "2026-11-30T23:59:59-12:00",
-        "abstract": "2026-08-17T23:59:59-12:00"
-      },
-      "confidence": {
-        "submission": "medium",
-        "place": "medium",
-        "abstract": "medium"
-      },
-      "source": "https://wsdm-conference.org/2027/",
       "note": ""
     },
     {
